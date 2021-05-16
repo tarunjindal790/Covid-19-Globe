@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+}
+
+.page-header {
+  z-index: 100;
+  font-size: 2em;
+  font-weight: bold;
+  position: absolute;
+  top: 30px;
+  color: white;
+  text-align: center;
+  width: 100%;
+}
+
+.label-container {
+  padding: 10px;
+  background-color: #fff;
+  color: black;
+  border: 2px solid lightblue;
+  width: 180px;
+}
+
+.label-container img {
+  max-width: 100%;
+  margin-bottom: 0.5em;
+}
+
+.label-title {
+  /* font-size: 1.4em; */
+  margin-bottom: 1em;
+  margin-left: auto;
+}
+
+.label-body div {
+  font-size: 14px;
+}
